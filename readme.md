@@ -11,5 +11,4 @@ Just download the .exe file (or compile it yourself) and paste it on your 'Progr
 It works just like the GNU/Linux one, you only need to write: 'cowsay <TEXT>' in the console
 
 ## Screenshot
-!
-[alt tag](screenshot1.png)
+![alt tag](screenshot1.png)
